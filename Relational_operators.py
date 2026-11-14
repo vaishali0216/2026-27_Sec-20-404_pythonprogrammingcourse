@@ -1,0 +1,8 @@
+a = int(input("enter a number"))
+b = int(input("enter anumber"))
+print("a>b =",a>b)
+print("a<b =",a<b)
+print("a>=b",a>=b)
+print("a<=b",a<=b)
+print("a==b",a==b)
+print("a!=b",a!=b)

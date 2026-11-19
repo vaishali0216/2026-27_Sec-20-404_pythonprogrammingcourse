@@ -1,0 +1,11 @@
+str1 = input("Enter a string: ")
+
+print("Original String:", str1)
+print("Uppercase:", str1.upper())
+print("Lowercase:", str1.lower())
+print("Title Case:", str1.title())
+print("Capitalize:", str1.capitalize())
+print("Length:", len(str1))
+print("Count of 'a':", str1.count('a'))
+print("Replace:", str1.replace('a', '@'))
+print("Strip:", str1.strip())
